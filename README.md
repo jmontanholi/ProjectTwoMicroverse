@@ -47,7 +47,7 @@ To see the live Demo of the project click [here](https://jmontanholi.github.io/P
 
 - GitHub: [@mrigorir](https://github.com/mrigorir)
 - Twitter: [@marcoparra311](https://twitter.com/marcoparra311)
-- LinkedIn: [Marco Parra](https://linkedin.com/in/marco-parra-leal-a93318101/) 
+- LinkedIn: [Marco Parra](https://linkedin.com/in/marco-alonso-parra/) 
 
 ## 🤝 Contributing
 
